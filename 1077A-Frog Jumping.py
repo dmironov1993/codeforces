@@ -1,3 +1,4 @@
+# https://codeforces.com/contest/1077/problem/A
 # https://codeforces.com/contest/1077/submission/52602117
 
 t = int(input()) # number of queries
