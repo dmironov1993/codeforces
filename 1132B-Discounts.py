@@ -1,5 +1,4 @@
 # https://codeforces.com/contest/1132/problem/B
-# https://codeforces.com/contest/1132/submission/52562005
 
 n = int(input()) # number of bars
 a = sorted(list(map(int, input().split())), reverse=True)  # cost of a bar
