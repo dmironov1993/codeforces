@@ -1,5 +1,4 @@
 # https://codeforces.com/contest/230/problem/A
-# https://codeforces.com/contest/230/submission/52564798
 
 s,n = tuple(map(int, input().split()))
 
