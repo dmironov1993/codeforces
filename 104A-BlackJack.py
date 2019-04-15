@@ -1,6 +1,4 @@
 # https://codeforces.com/problemset/problem/104/A
-# https://codeforces.com/contest/104/submission/52778665
-
 
 n = int(input())
 n -= 10
