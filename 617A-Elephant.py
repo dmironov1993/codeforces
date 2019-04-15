@@ -1,5 +1,4 @@
 # https://codeforces.com/contest/617/problem/A
-# https://codeforces.com/contest/959/submission/52599072
 
 x = int(input())
 
