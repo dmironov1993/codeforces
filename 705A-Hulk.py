@@ -1,5 +1,4 @@
 # https://codeforces.com/problemset/problem/705/A
-# https://codeforces.com/contest/705/submission/52776240
 
 first = 'I hate'
 second = 'I love'
