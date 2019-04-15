@@ -1,5 +1,4 @@
 # https://codeforces.com/problemset/problem/519/A
-# https://codeforces.com/contest/519/submission/52779416
 
 # white
 dct_w = {'Q':9,
