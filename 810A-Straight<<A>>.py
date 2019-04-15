@@ -1,5 +1,4 @@
 # https://codeforces.com/contest/810/problem/A
-# https://codeforces.com/contest/810/submission/52607164
 
 n, k = tuple(map(int, input().split()))
 a = list(map(int, input().split()))
