@@ -1,5 +1,4 @@
 # https://codeforces.com/contest/160/problem/A
-# https://codeforces.com/contest/160/submission/52564033
 
 n = int(input())
 a = sorted(list(map(int, input().split())), reverse=True)
