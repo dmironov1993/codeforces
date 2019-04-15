@@ -1,5 +1,4 @@
 # https://codeforces.com/problemset/problem/785/A
-# https://codeforces.com/contest/785/submission/52776494
 
 dct = {'Tetrahedron':4,
        'Cube':6,
