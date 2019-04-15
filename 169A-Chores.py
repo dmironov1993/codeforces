@@ -1,5 +1,4 @@
 # https://codeforces.com/contest/169/problem/A
-# https://codeforces.com/contest/169/submission/52562524
 
 n, a, b = tuple(map(int, input().split()))
 h = sorted(list(map(int, input().split())))
