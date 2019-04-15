@@ -1,6 +1,4 @@
 # https://codeforces.com/contest/652/problem/B
-# https://codeforces.com/contest/652/submission/52528822
-
 
 n = int(input())
 arr = sorted(list(map(int, input().split())))
