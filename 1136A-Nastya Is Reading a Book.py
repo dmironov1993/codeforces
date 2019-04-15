@@ -1,6 +1,4 @@
 # https://codeforces.com/problemset/problem/1136/A
-# https://codeforces.com/contest/1136/submission/52777794
-
 
 n = int(input())
 l = []
