@@ -1,4 +1,4 @@
-https://codeforces.com/contest/34/problem/B
+# https://codeforces.com/contest/34/problem/B
 
 n, m = tuple(map(int, input().split()))
 a = sorted(list(map(int, input().split())))
