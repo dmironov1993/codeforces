@@ -1,5 +1,4 @@
 # https://codeforces.com/contest/581/problem/A
-# https://codeforces.com/contest/581/submission/52599521
 
 a,b = tuple(map(int, input().split()))
 
